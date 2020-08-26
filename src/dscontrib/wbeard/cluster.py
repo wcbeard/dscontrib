@@ -1,5 +1,5 @@
 import numpy as np
-from sklearn.preprocessing.data import StandardScaler
+from sklearn.preprocessing import StandardScaler
 
 
 def ss(x):
